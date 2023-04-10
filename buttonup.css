@@ -1,0 +1,27 @@
+.search_button{
+    display:block;
+}
+button {
+    margin: 10px;
+}
+.button1 {
+    color: aqua;
+    background-color: white;
+    border-color: aqua;
+    border-radius: 25px;
+}
+.button2 {
+    background-color: aqua;
+    color: white;
+    border-radius: 50%;
+    border-color: aqua;
+    box-shadow: white;
+}
+.button3 {
+    color: white;
+    background-color: blue;
+    padding: 10px; 
+    box-shadow: black 5px 5px;
+    font-size: larger;
+    font-weight: bolder;
+}
